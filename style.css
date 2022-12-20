@@ -4,7 +4,8 @@ body{
 font-family: 'Montserrat', sans-serif;
 }
 .Hobbies{
-    padding-left: 2rem;
-    padding-right: 2rem;
+    max-width: 600px;
+    margin: auto;
+    
 
 }
