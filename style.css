@@ -2,6 +2,8 @@
 
 body{
 font-family: 'Montserrat', sans-serif;
+
+
 }
 .Hobbies{
     max-width: 600px;
@@ -10,5 +12,5 @@ font-family: 'Montserrat', sans-serif;
 
 }
 h1{
-    colour: blue
+    color: blue;
 }
