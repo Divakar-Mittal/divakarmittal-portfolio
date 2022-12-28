@@ -16,14 +16,13 @@ font-family: 'Montserrat', sans-serif;
 
 }
 h1{
-    color: blue;
+    color: var(--primary-color);
 }
 
 .email{
-   /* background-color: var(--primary-color);*/
-    border-radius: 1rem;
+    background-color: var(--primary-color);
+    border-radius: 0.25rem;
     color: white;
     padding: 0.5rem,1 rem;
-    border: 1px soild var(--primary-color);
 
 }
