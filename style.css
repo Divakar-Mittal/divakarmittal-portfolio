@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;1,700&display=swap');
 
+
+:root{
+    --primary-color:#38bdf8
+}
 body{
 font-family: 'Montserrat', sans-serif;
 
@@ -13,4 +17,9 @@ font-family: 'Montserrat', sans-serif;
 }
 h1{
     color: blue;
+}
+
+.email{
+    background-color: var(--primary-color);
+
 }
