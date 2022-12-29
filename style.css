@@ -27,5 +27,15 @@ h1{
 
 }
 .phone-no{
-    border: 1px black;
+    border: 1px solid var(--primary-color);
+  background-color: white;
+  color: black;
+  /*padding: 14px 28px;*/
+  
+  cursor: pointer;
+}
+
+.in-line{
+    display: inline;
+    padding: 5 px,6 px;
 }
