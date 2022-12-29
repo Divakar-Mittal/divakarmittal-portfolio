@@ -26,3 +26,6 @@ h1{
     padding: 0.5rem,1 rem;
 
 }
+.phone-no.{
+    border: 1px var(--primary-color)
+}
